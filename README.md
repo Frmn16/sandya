@@ -9,7 +9,7 @@
 ## 🚀CARA PAKENYA
 1. Clone repositorynya:
    ```bash
-   git clone https://github.com/Frmn16/sandya
+   git clone https://github.com/Frmn16/sandya.git
    ```
 2. Buka `index.html`.
 3. Click **Open**
